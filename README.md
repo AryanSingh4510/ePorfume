@@ -18,8 +18,6 @@ ePorfume is an online perfume store web application built using React and Vite. 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [CSS Modules](https://github.com/css-modules/css-modules) or [Styled Components](https://styled-components.com/) (depending on implementation)
 
-## Getting Started
-
 ### Prerequisites
 
 - Node.js (v18 or higher recommended)
@@ -43,7 +41,6 @@ The app will be available at `http://localhost:5173/` (default Vite port).
 
 ## Folder Structure
 
-```
 ePorfume/
 ├── src/
 │   ├── components/      # Reusable UI components
@@ -70,7 +67,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## License
 
 This project is licensed under the MIT License.
-
----
 
 Feel free to customize this README to match your project details and functionality.
