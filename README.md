@@ -13,10 +13,10 @@ ePorfume is an online perfume store web application built using React and Vite. 
 
 ## Tech Stack
 
-- [React](https://react.dev/) – Frontend library
-- [Vite](https://vitejs.dev/) – Build tool for fast development
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [CSS Modules](https://github.com/css-modules/css-modules) or [Styled Components](https://styled-components.com/) (depending on implementation)
+- [React]– Frontend library
+- [Vite]– Build tool for fast development
+- [JavaScript]
+- [CSS Modules] or [Styled Components] (depending on implementation)
 
 ### Prerequisites
 
