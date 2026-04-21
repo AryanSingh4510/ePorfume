@@ -9,7 +9,7 @@ ePorfume is an online perfume store web application built using React and Vite. 
 - 🧾 Checkout process: Place orders with a simple and intuitive flow.
 - 🔍 Product search and filtering: Quickly find perfumes by category, brand, or fragrance notes.
 - 🎨 Modern UI: Responsive and clean design for desktop and mobile.
-- ⚡ Fast performance: Powered by Vite and React for instant loading and smooth transitions.
+- ⚡ Fast performance: Powered by Vite and React for instant loading and smooth transitions.   
 
 ## Tech Stack
 
